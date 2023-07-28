@@ -24,9 +24,19 @@ The web application is built using the following technologies:
 
 - **MySQL**: The application uses MySQL as the database management system. It stores information about books, users, orders, and other relevant data.
 
-- **HTML**: The website's frontend is created using HTML. It provides the structure and content of the web pages.
+- **HTML**: The website's front end is created using HTML. It provides the structure and content of the web pages.
 
 - **CSS**: Cascading Style Sheets (CSS) are used to enhance the visual appearance of the website. It defines the layout, colors, fonts, and other design elements.
+
+## Images
+
+![Screenshot 2023-05-17 173031](https://github.com/FlashT4/Book-Shop-MySQL-PHP/assets/70928572/979f0dda-f3ab-4038-88aa-38ca3d7cdc1d)
+
+![Screenshot 2023-05-17 173243](https://github.com/FlashT4/Book-Shop-MySQL-PHP/assets/70928572/59fe85b5-df06-4c20-b2f2-81d45204e77e)
+
+![Screenshot 2023-05-17 173102](https://github.com/FlashT4/Book-Shop-MySQL-PHP/assets/70928572/c7117126-8d9b-4e07-a1b8-9fad96dcfb95)
+
+![Screenshot 2023-05-17 173213](https://github.com/FlashT4/Book-Shop-MySQL-PHP/assets/70928572/b2195fea-be09-444e-8e0b-444b8e06e89e)
 
 ## Setup and Usage
 
